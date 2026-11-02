@@ -25,10 +25,10 @@ npm run build
 
 ## 项目结构
 
-- `src/moduls/Snake.ts`：蛇的移动、增长与碰撞检查
-- `src/moduls/Food.ts`：食物位置管理
-- `src/moduls/ScorePanel.ts`：分数和等级管理
-- `src/moduls/GameControl.ts`：键盘事件与游戏流程控制
+- `src/modules/Snake.ts`：蛇的移动、增长与碰撞检查
+- `src/modules/Food.ts`：食物位置管理
+- `src/modules/ScorePanel.ts`：分数和等级管理
+- `src/modules/GameControl.ts`：键盘事件与游戏流程控制
 - `src/style/index.less`：页面样式
 - `src/index.ts`：程序入口
 
